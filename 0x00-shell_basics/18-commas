@@ -1,0 +1,4 @@
+#!/bin/bash
+ls -m /..[0-9a-z]-no--newline
+
+

@@ -1,0 +1,2 @@
+#!/bin/bash
+cp dir1 ../*.html dir2
